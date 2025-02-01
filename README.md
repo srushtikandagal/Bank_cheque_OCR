@@ -1,0 +1,1 @@
+#The Bank Cheque OCR project is an AI-powered Optical Character Recognition (OCR) system designed to extract and process textual information from bank cheques. This system automates cheque data extraction, reducing manual efforts and improving accuracy in financial document processing
